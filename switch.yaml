@@ -9,3 +9,10 @@
     command_topic: "433transmitter/rfcode"
     payload_on: "15446285"
     payload_off: "15446284"
+
+  - platform: mqtt
+    name: "Projector"
+    icon: mdi:projector
+    command_topic: "projectorIR/command"
+    payload_on: "on"
+    payload_off: "off"

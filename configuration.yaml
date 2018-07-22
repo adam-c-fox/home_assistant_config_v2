@@ -69,6 +69,7 @@ device_tracker:
   - platform: nmap_tracker
     hosts:
       - 192.168.0.36
+      - 192.168.0.33
 
 
 group: !include groups.yaml

@@ -7,3 +7,12 @@ desktop:
   picture: http://www.fractal-design.com/media/788b6f1a-e12f-4963-9932-13412502d0e7
   track: true
   vendor: GIGA-BYTE TECHNOLOGY CO.,LTD.
+
+phone:
+  hide_if_away: false
+  icon:
+  mac: C0:EE:FB:D0:E1:02
+  name: Oneplus 3
+  picture: https://images-na.ssl-images-amazon.com/images/I/61iafPIdcML._SL1000_.jpg
+  track: true
+  vendor: OnePlus Tech (Shenzhen) Ltd

@@ -1,0 +1,6 @@
+adam:
+  name: Bedroom
+  entities:
+    - device_tracker.desktop
+    - switch.desk_fan
+    - switch.desk_lamp

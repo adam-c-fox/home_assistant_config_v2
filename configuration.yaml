@@ -69,7 +69,9 @@ device_tracker:
   - platform: nmap_tracker
     hosts:
       - 192.168.0.36
-      - 192.168.0.33 
+      - 192.168.0.33
+
+emulated_hue:
 
 
 group: !include groups.yaml

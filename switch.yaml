@@ -18,3 +18,11 @@
     command_topic: "projectorIR/command"
     payload_on: "on"
     payload_off: "off"
+
+  - platform: mqtt
+    name: "Stereo"
+    icon: mdi:speaker
+    command_topic: "irtransceiver/sony"
+    payload_on: "power"
+    payload_off: "power"
+

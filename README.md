@@ -15,4 +15,4 @@ Hosted in Docker on an old Sony Vaio laptop running Ubuntu 18.04, alongside some
   
 Current interface status:
 
-![Interface image](https://i.imgur.com/pgiXSqA.png)
+![Interface image](https://i.imgur.com/3QfKANv.png)

@@ -1,6 +1,25 @@
-adam:
+bedroom:
   name: Bedroom
+  entities:
+    - switch.projector
+    - sensor.temperature
+    - sensor.humidity
+    - sensor.light
+
+desk:
+  name: Desk
   entities:
     - device_tracker.desktop
     - switch.desk_fan
     - switch.desk_lamp
+
+adam:
+  name: Adam
+  entities:
+    - device_tracker.phone
+
+environment:
+  name: Environment
+  entities:
+    - sensor.yr_symbol
+    - sun.sun

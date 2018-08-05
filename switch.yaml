@@ -1,11 +1,13 @@
   - platform: mqtt
     name: "Desk Fan"
+    icon: mdi:fan
     command_topic: "433transmitter/rfcode"
     payload_on: "15446287"
     payload_off: "15446286"
 
   - platform: mqtt
     name: "Desk Lamp"
+    icon: mdi:desk-lamp
     command_topic: "433transmitter/rfcode"
     payload_on: "15446285"
     payload_off: "15446284"

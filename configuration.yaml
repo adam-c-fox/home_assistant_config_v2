@@ -52,10 +52,6 @@ map:
 # Track the sun
 sun:
 
-# Weather prediction
-sensor:
-  - platform: yr
-
 # Text to speech
 tts:
   - platform: google
@@ -78,3 +74,4 @@ group: !include groups.yaml
 automation: !include automations.yaml
 # script: !include scripts.yaml
 switch: !include switch.yaml
+sensor: !include sensor.yaml
